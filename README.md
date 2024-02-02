@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sabrina<br>A passionate frontend developer from Brazil<br>🔭 I’m currently working on personal projects<br>🌱 I’m currently learning React and Javascript <br>📫 How to reach me sabrinapscampos@gmail.com
+Hi 👋, I'm Sabrina<br>A passionate frontend developer from Brazil<br>🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Ruby <br>📫 How to reach me sabrinapscampos@gmail.com
 
 
 ## 🌐 Connect with me  
