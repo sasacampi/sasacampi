@@ -35,5 +35,3 @@ Fluent in English, I thrive on solving complex problems and leveraging new techn
 
 ### Code Quality e Formatação
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)
-
-
