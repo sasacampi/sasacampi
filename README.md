@@ -4,11 +4,11 @@ Brazilian full-stack engineer focused on user-centric digital experiences — fr
 
 ---
 
-**Languages** — JavaScript, TypeScript </br>
+**Languages** — JavaScript, TypeScript, Python</br>
 **Frontend** — React, React Native, Next.js, Vite, Tailwind </br>
 **Backend** — Node.js, FastAPI, REST APIs </br>
 **Mobile** — React Native, Flutter, Expo </br>
-**Databases** — PostgreSQL, SQL, S3, Firebase </br>
+**Databases** — PostgreSQL, SQL, S3 </br>
 **Legacy** — Delphi, C#, ASP.NET Core, FastReport </br>
 **Design** — Figma, Photoshop </br>
 **Infra & Tooling** — AWS, Docker, Linux </br>
